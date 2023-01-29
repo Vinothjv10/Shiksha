@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.border-box{
+    box-sizing: border-box;
+}
+.fit-content{
+    height:2rem;
+}
+label{
+    cursor: pointer;
+}
+/* body{
+    overflow-x: hidden;
+}
+
+html{
+    overflow-x: hidden;
+} */
